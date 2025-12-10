@@ -1,5 +1,5 @@
 streamlit
 python-docx
-
+requirements.txt
 pandas
 
